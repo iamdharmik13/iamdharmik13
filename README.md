@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmik Panchal</h1>
-<h3 align="center">Data Scientist specializing in BFSI Risk Analytics - Fraud Detection, AML & Credit Risk</h3>
+<h3 align="center">Data Analyst & Aspiring Data Scientist | Python · SQL · Power BI · Machine Learning</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/iamdharmik1334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
